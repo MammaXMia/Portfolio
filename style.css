@@ -1,5 +1,5 @@
 body{
-  background-color: rgba(240, 255, 255, 0.17);
+  background-color: #f0ffff2b;
 }
 
 .section-img{
@@ -16,7 +16,7 @@ body{
 }
 
 .header-subtitle, .box-shadow{
-  background-color: rgba(0, 236, 218,.85);
+  background-color: #00ecdad9;
 }
 
 
@@ -27,8 +27,8 @@ body{
 }
 
 .footer{
-  background-color: #000;
-  color: #fff;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 .footer ul{
