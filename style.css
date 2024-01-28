@@ -1,14 +1,36 @@
-.class-height{
-  height: 30px;
+body{
+  background-color: rgba(240, 255, 255, 0.17);
 }
 
-.booking-from-box
-{
-  max-width: 350px;
-border: 1px solid #ced4da;
-margin: 10% auto;
+.section-img{
+  background-image: url("https://digitaltravelcouple.com/wp-content/uploads/2022/03/virgin-beach-bali-topdown.jpg.webp ");
+  height: 475px;
+  background-size: cover;
 }
-.radio-btn
-{
-  margin: 0;
+
+.header-title h1{
+  font-size: 4rem;
+  color: #fff;
+  font-family: 'Righteous', sans-serif;
+  text-shadow: 4px 4px 4px black;
+}
+
+.header-subtitle, .box-shadow{
+  background-color: rgba(0, 236, 218,.85);
+}
+
+
+.card .card-img-top{
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.footer{
+  background-color: #000;
+  color: #fff;
+}
+
+.footer ul{
+  list-style: none;
 }
