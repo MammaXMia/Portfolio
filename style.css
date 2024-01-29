@@ -3,12 +3,12 @@ body{
 }
 
 .section-img{
-  background-image: url("https://digitaltravelcouple.com/wp-content/uploads/2022/03/virgin-beach-bali-topdown.jpg.webp ");
+  background-color: #775144;
   height: 475px;
   background-size: cover;
 }
 
-.header-title h1{
+h1{
   font-size: 4rem;
   color: #fff;
   font-family: 'Righteous', sans-serif;
@@ -16,14 +16,92 @@ body{
 }
 
 .header-subtitle, .box-shadow{
-  background-color: #00ecdad9;
+  background-color: #bea8a7;
+}
+
+ 
+.headshot-img{
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.linkedin-icon{
+  width: 100px;
+  height: 100px;
+}
+
+.pdf-img{
+  width: 100px;
+  height: 100px;
+}
+
+.email-img{
+  width: 100px;
+  height: 100px;
+}
+
+.location-img{
+  width: 100px;
+  height: 100px;
 }
 
 
 .card .card-img-top{
   height: 200px;
+  min-height: 200px;
   object-fit: cover;
   width: 100%;
+}
+
+.card-text{
+  height: 150px;
+  overflow: auto;
+}
+
+.github-icon{
+  width: 100px;
+  height: 100px;
+}
+
+.mongodb-icon{
+  width: 100px;
+  height: 100px;
+}
+
+.nodejs-icon{
+  width: 100px;
+  height: 100px;
+}
+
+.react-icon{
+  width: 100px;
+  height: 100px;
+}
+
+.css-icon{
+  width: 100px;
+  height: 100px;
+}
+
+.html-icon{
+  width: 100px;
+  height: 100px;
+}
+
+.postgress-icon{
+  width: 100px;
+  height: 100px;
+}
+
+.javascript-icon{
+  width: 100px;
+  height: 100px;
+}
+
+.vscode-icon{
+  width: 100px;
+  height: 100px;
 }
 
 .footer{
